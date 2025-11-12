@@ -94,7 +94,7 @@ endmodule
 
 **Result:**
 
-Thus all the logic gates and truth table is studied and verified successfully using Quartus II.
+All the logic gates and their corresponding truth table were successfully verified using Quartus II.
 
 
 
